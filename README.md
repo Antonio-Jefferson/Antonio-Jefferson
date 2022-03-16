@@ -11,7 +11,7 @@
   <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jeff-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="right" alt="Jeff-yoda" height="150" style="border-radius:50px;" src="https://discord.com/channels/953637373315526747/953637373315526750/953640961773281292">
+ <img align="right" alt="Jeff-yoda" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/953637373315526750/953640961647476816/icegif-1299.gif">
 </div>
 
 ##
