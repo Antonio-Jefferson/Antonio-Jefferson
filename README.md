@@ -1,13 +1,13 @@
 
   <h1>Hi, I’m Antonio Jefferson  :woman_technologist:</h1>
- 
-<div align="center">
+ <p align='center'>Welcome to my profile, my name is Antônio Jefferson, I am 21 years old, I am a software engineer.</p>
+<div align="end">
   <a href="https://github.com/Antonio-Jefferson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Jefferson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Jefferson&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div styl
-     <div style="display:inline_block"><br>
+     <div style="display:inline_block"> <br>
   <img align="center" alt="Jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
