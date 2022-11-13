@@ -3,9 +3,9 @@
  <p align='center'>Welcome to my profile, my name is Antônio Jefferson, I am 21 years old, I am a software engineer.</p>
 <div align="end">
   <a href="https://github.com/Antonio-Jefferson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Jefferson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Jefferson&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Jefferson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img  height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Jefferson&layout=compact&langs_count=7&theme=dark"/>
+</div><br>
   <h4>:rocket: Languages and Tools:<//h4>
  <div style="display:inline_block"> <br>
  
