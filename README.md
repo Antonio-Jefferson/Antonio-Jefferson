@@ -15,7 +15,7 @@
   <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Jeff-vscode" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img align="center" height="30" width="40" alt="jeff-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img align="right" width="500" src="https://github.com/Antonio-Jefferson/Antonio-Jefferson/blob/main/SoupyNaughtyAmurminnow-size_restricted.gif?raw=true"/>
+   <img align="right" width="400" src="https://github.com/Antonio-Jefferson/Antonio-Jefferson/blob/main/SoupyNaughtyAmurminnow-size_restricted.gif?raw=true"/>
     <img align="center" height="30" width="40" alt="jeff-figma"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     <img align="center" height="30" width="40" alt="jeff-linux"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />     
 </div> 
