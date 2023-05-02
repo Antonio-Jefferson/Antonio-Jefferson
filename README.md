@@ -17,20 +17,20 @@
     <img align="center" height="30" width="40" alt="jeff-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img align="right" width="400" src="https://github.com/Antonio-Jefferson/Antonio-Jefferson/blob/main/SoupyNaughtyAmurminnow-size_restricted.gif?raw=true"/>
     <img align="center" height="30" width="40" alt="jeff-figma"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img align="center" height="30" width="40" alt="jeff-linux"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />     
+    <img align="center" height="30" width="40" alt="jeff-linux"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
+     <img align="center" alt="Jeff-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+   <img  align="center" alt="Jeff-nodejs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
+   <img  align="center" alt="Jeff-Postgresql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+   <img align="center" alt="Jeff-Mongodb" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+   <img align="center" alt="Jeff-Spress" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 </div> 
 
 
   <h4>:books: Studying:</h4>
 <p>
-  <img  align="center" alt="Jeff-nodejs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
    <img align="center" alt="Jeff-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jeff-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Jeff-Webpack" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" />
-  <img align="center" alt="Jeff-Spress" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img  align="center" alt="Jeff-Postgresql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-   <img  align="center" alt="Jeff-Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-   <img align="center" alt="Jeff-Mongodb" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+   <img  align="center" alt="Jeff-Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /> 
   <img align="center" alt="Jeff-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />     
 </p>
 
