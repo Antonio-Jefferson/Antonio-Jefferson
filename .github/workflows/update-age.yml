@@ -1,0 +1,26 @@
+name: Atualizar idade no README
+
+on:
+  schedule:
+    - cron: "0 6 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Recalcula a idade
+        run: |
+          AGE=$(( $(date +%Y) - 2001 ))
+          sed -i -E "s/<!--AGE_START-->.*<!--AGE_END-->/<!--AGE_START-->${AGE} anos<!--AGE_END-->/" README.md
+
+      - name: Comita se houver mudança
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "chore: atualiza idade automaticamente" && git push)
