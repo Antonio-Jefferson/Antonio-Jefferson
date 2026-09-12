@@ -35,8 +35,8 @@ Acredito que incorporar IA ao processo de desenvolvimento deixou de ser diferenc
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Jefferson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="stats do github" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Jefferson&layout=compact&theme=dark&langs_count=8" alt="linguagens mais usadas" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Antonio-Jefferson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="stats do github" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Antonio-Jefferson&layout=compact&theme=dark&langs_count=8" alt="linguagens mais usadas" />
 </p>
 
 <p align="center">
