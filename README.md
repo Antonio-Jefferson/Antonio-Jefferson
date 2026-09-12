@@ -13,10 +13,15 @@
 
 ### 💼 O que eu faço hoje
 
-- Planejo e distribuo as tarefas do time, sempre buscando cumprir os prazos de entrega
-- Construo o fluxo do zero: converso com os times sobre a funcionalidade, desenho o design (com Claude Design) e desenvolvo back e front por completo
-- Uso IA (Claude Code) como parte do meu fluxo diário de desenvolvimento, do planejamento à implementação
-- Também atuo com infraestrutura: AWS (EC2, S3, Secrets Manager), Terraform (básico) e Docker
+Atuo como desenvolvedor full stack pleno, responsável por conduzir funcionalidades do início ao fim — não só escrever código.
+
+- **Planejamento e liderança técnica**: organizo e distribuo as tarefas do time, acompanhando de perto os prazos de entrega
+- **Descoberta e discovery**: participo das conversas com os demais times para entender a necessidade antes de qualquer linha de código, desenhando o fluxo da funcionalidade desde a ideia
+- **Design**: prototipo as telas com Claude Design, já pensando na experiência antes de partir para a implementação
+- **Desenvolvimento full stack**: implemento back e front de ponta a ponta, usando Claude Code como parte do fluxo de trabalho — do planejamento à entrega
+- **Infraestrutura**: AWS (EC2, S3, Secrets Manager), Terraform (nível básico) e Docker para deploy e ambientes
+
+Acredito que incorporar IA ao processo de desenvolvimento deixou de ser diferencial e virou requisito de produtividade — é assim que trabalho hoje.
 
 ### 🛠️ Stack
 
